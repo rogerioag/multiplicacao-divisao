@@ -26,7 +26,7 @@ O algoritmo de Multiplicação:
 
 ### Fluxograma:
 
-![Fluxograma da Multiplicação. Fonte: Stallings (2010)](/home/rogerio/.config/Typora/typora-user-images/image-20240314104634346.png)
+![Fluxograma da Multiplicação. Fonte: Stallings (2010)](figuras/image-20240314104634346.png)
 
 ## Divisão
 
@@ -54,4 +54,4 @@ O algoritmo de Divisão:
 
 ### Fluxograma
 
-![Fluxograma da Divisão. Fonte: Stallings (2010)](/home/rogerio/.config/Typora/typora-user-images/image-20240314105203980.png)
+![Fluxograma da Divisão. Fonte: Stallings (2010)](figuras/image-20240314105203980.png)
